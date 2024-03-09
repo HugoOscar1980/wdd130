@@ -9,7 +9,7 @@ body{
 :root{
    --primary-color: #695958 ;
 --secondary-color: #B6C8Aa ;
---accent1-color: #C8EAD3 ;
+--accent1-color: #0add4d ;
 --accent2-color: #CFFFE5 ;
 
 --heading-fonts: .madimi-one-regular 
@@ -22,8 +22,8 @@ body{
     font-style: normal;
 
 --nav-backgroung-color:  #499167 ;
---nav-link-color:  #467534 ;
---nav-hover-link-color : #be9075 ;
+--nav-link-color:  #ec1313 ;
+--nav-hover-link-color : #250146 ;
 --nav-hover_background-color: #1182ec ;
 
   }
