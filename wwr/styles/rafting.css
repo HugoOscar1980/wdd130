@@ -23,19 +23,8 @@ font-style: normal;
 }
 .hero img{
     display: block;
-    width: 100%;
+    width: 1000%;
     height: auto;
-    position: absolute;
+    position: absolute
 }
 
-H1{
-    position: absolute;
-
-}
-article{
-    position: absolute;
-}
-img{
-    float: right;
-width: 100px;
-}
