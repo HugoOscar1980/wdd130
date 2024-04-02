@@ -36,6 +36,7 @@ body{
   head{
     padding: 20px;
     background-color: var(--accent1-color);
+    
   }
   
 p{
@@ -62,4 +63,11 @@ nav a:link nav a:visited{
 nav a:hover{
     color: var(--nav-hover-link-color);
     background-color: var(--nav-hover_background-color);
+}
+
+header{
+  display: grid;
+  grid-template-columns: 120px 1fr 2fr;
+  align-items: center;
+  border-bottom: #695958;
 }
